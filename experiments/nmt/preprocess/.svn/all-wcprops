@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/myspace/!svn/ver/249771/nlp/mt/nmt/rnntm/branch/parallel_train/experiments/nmt/preprocess
+END
+invert-dict.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/myspace/!svn/ver/249771/nlp/mt/nmt/rnntm/branch/parallel_train/experiments/nmt/preprocess/invert-dict.py
+END
+preprocess_v2.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/myspace/!svn/ver/249771/nlp/mt/nmt/rnntm/branch/parallel_train/experiments/nmt/preprocess/preprocess_v2.py
+END
+convert-pkl2hdf5.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/myspace/!svn/ver/249771/nlp/mt/nmt/rnntm/branch/parallel_train/experiments/nmt/preprocess/convert-pkl2hdf5.py
+END
+shuffle-hdf5.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/myspace/!svn/ver/249771/nlp/mt/nmt/rnntm/branch/parallel_train/experiments/nmt/preprocess/shuffle-hdf5.py
+END
+out_vocab.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/myspace/!svn/ver/249771/nlp/mt/nmt/rnntm/branch/parallel_train/experiments/nmt/preprocess/out_vocab.py
+END
+preprocess.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/myspace/!svn/ver/249771/nlp/mt/nmt/rnntm/branch/parallel_train/experiments/nmt/preprocess/preprocess.py
+END

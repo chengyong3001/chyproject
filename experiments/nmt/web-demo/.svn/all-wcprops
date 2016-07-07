@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/myspace/!svn/ver/249771/nlp/mt/nmt/rnntm/branch/parallel_train/experiments/nmt/web-demo
+END
+detokenizer.perl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/myspace/!svn/ver/249771/nlp/mt/nmt/rnntm/branch/parallel_train/experiments/nmt/web-demo/detokenizer.perl
+END
+sampler.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/myspace/!svn/ver/249771/nlp/mt/nmt/rnntm/branch/parallel_train/experiments/nmt/web-demo/sampler.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/myspace/!svn/ver/249771/nlp/mt/nmt/rnntm/branch/parallel_train/experiments/nmt/web-demo/index.html
+END
+tokenizer.perl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/myspace/!svn/ver/249771/nlp/mt/nmt/rnntm/branch/parallel_train/experiments/nmt/web-demo/tokenizer.perl
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/myspace/!svn/ver/249771/nlp/mt/nmt/rnntm/branch/parallel_train/experiments/nmt/web-demo/README.md
+END
+sample_server.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/myspace/!svn/ver/249771/nlp/mt/nmt/rnntm/branch/parallel_train/experiments/nmt/web-demo/sample_server.py
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/myspace/!svn/ver/249771/nlp/mt/nmt/rnntm/branch/parallel_train/groundhog/datasets
+END
+LM_dataset.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/myspace/!svn/ver/249771/nlp/mt/nmt/rnntm/branch/parallel_train/groundhog/datasets/LM_dataset.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/myspace/!svn/ver/249771/nlp/mt/nmt/rnntm/branch/parallel_train/groundhog/datasets/__init__.py
+END
+TM_dataset.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/myspace/!svn/ver/249771/nlp/mt/nmt/rnntm/branch/parallel_train/groundhog/datasets/TM_dataset.py
+END

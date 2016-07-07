@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/myspace/!svn/ver/249771/nlp/mt/nmt/rnntm/branch/parallel_train/experiments/nmt/compat
+END
+convert_model.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/myspace/!svn/ver/249771/nlp/mt/nmt/rnntm/branch/parallel_train/experiments/nmt/compat/convert_model.py
+END
+convert_state.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/myspace/!svn/ver/249771/nlp/mt/nmt/rnntm/branch/parallel_train/experiments/nmt/compat/convert_state.py
+END
+convert_timing.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/myspace/!svn/ver/249771/nlp/mt/nmt/rnntm/branch/parallel_train/experiments/nmt/compat/convert_timing.py
+END
